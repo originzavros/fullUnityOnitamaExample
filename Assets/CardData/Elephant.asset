@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407b4c11e11a9df468e739109664dd9e, type: 3}
+  m_Name: Elephant
+  m_EditorClassIdentifier: 
+  name: Elephant
+  gridSprite: {fileID: 21300000, guid: 84c6feb888d87334c8efbb700d092aff, type: 3}
+  moveset:
+  - {fileID: 11400000, guid: 01f57dd6774c607419bb5951714e043a, type: 2}
+  - {fileID: 11400000, guid: d7bd00234b998e248b8e9bebeabe934c, type: 2}
+  - {fileID: 11400000, guid: 3c0f93037b6cbf5448dfb23328528326, type: 2}
+  - {fileID: 11400000, guid: d9d80556026a6f04fa31c48955ab1913, type: 2}

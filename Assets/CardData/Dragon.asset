@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407b4c11e11a9df468e739109664dd9e, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  name: Dragon
+  gridSprite: {fileID: 21300000, guid: ed717779a9bdab642adf23ac168c773a, type: 3}
+  moveset:
+  - {fileID: 11400000, guid: fb8992e5fd9cbd84eb3ac1c8a2baa9eb, type: 2}
+  - {fileID: 11400000, guid: 37708097723256546b05ddebe7061fe3, type: 2}
+  - {fileID: 11400000, guid: 33b4136df594b25408564e09d3678338, type: 2}
+  - {fileID: 11400000, guid: 757b340c464908b49adf34bfa833b616, type: 2}
